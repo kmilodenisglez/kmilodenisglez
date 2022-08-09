@@ -17,8 +17,8 @@ Specialist in solutions based on blockchain and applied cryptography, with a wid
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://www.python.org/static/img/python-logo-large.c36dccadd999.png?1576869008"></a>
 <a href="https://gomirrors.org" target="_blank"><img align="left" alt="Golang" height ="42px" src="https://gomirrors.org/lib/godoc/images/go-logo-blue.svg"></a>
 <a href="https://www.javascript.com/" target="_blank"> <img align="left" alt="JavaScript" height ="42px" src="https://www.javascript.com/etc.clientlibs/pluralsight/clientlibs/clientlib-main/resources/images/js-logo.png"> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="/static/ts_icon.svg"></a>
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://nodejs.org/static/images/logo.svg"></a>
 
 <br>
 <br>
