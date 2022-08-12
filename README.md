@@ -14,16 +14,17 @@ Specialist in solutions based on blockchain and applied cryptography, with a wid
 <br>
 
 ### 🔨 Languages and Tools:
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height="42px" src="https://www.python.org/static/img/python-logo-large.c36dccadd999.png?1576869008"></a>
-<a href="https://gomirrors.org" target="_blank"><img align="left" alt="Golang" height="42px" src="https://gomirrors.org/lib/godoc/images/go-logo-blue.svg"></a>
-<a href="https://www.javascript.com/" target="_blank"> <img align="left" alt="JavaScript" height ="42px" src="https://www.javascript.com/etc.clientlibs/pluralsight/clientlibs/clientlib-main/resources/images/js-logo.png"> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height="42px" src="/static/ts_icon.svg"></a>
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height="42px" src="https://nodejs.org/static/images/logo.svg"></a>
-<a href="https://www.docker.com" target="_blank"><img align="left" alt="Docker" height="42px" src="https://www.docker.com/wp-content/uploads/2022/01/docker-logo-green_0.png"></a>
-<a href="https://www.hyperledger.org/use/fabric" target="_blank"><img align="left" alt="Hyperledger Fabric" height ="42px" src="https://www.hyperledger.org/wp-content/uploads/2018/03/Hyperledger_Fabric_Logo_White.png"></a>
-<a href="https://es.vuejs.org" target="_blank"><img align="left" alt="VueJS" height="42px" src="https://es.vuejs.org/images/logo.png"></a>
-<a href="https://nuxtjs.org" target="_blank"><img align="left" alt="NuxtJS" height="42px" src="https://nuxtjs.org/design-kit/white-text.svg"></a>
-
+<div style="background-color:#2e475d; text-align:center;">
+    <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height="42px" src="https://www.python.org/static/img/python-logo-large.c36dccadd999.png?1576869008"></a>
+    <a href="https://gomirrors.org" target="_blank"><img align="left" alt="Golang" height="42px" src="https://gomirrors.org/lib/godoc/images/go-logo-blue.svg"></a>
+    <a href="https://www.javascript.com/" target="_blank"> <img align="left" alt="JavaScript" height ="42px" src="https://www.javascript.com/etc.clientlibs/pluralsight/clientlibs/clientlib-main/resources/images/js-logo.png"> </a>
+    <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescript" height="42px" src="/static/ts_icon.svg"></a>
+    <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height="42px" src="https://nodejs.org/static/images/logo.svg"></a>
+    <a href="https://www.docker.com" target="_blank"><img align="left" alt="Docker" height="42px" src="https://www.docker.com/wp-content/uploads/2022/01/docker-logo-green_0.png"></a>
+    <a href="https://www.hyperledger.org/use/fabric" target="_blank"><img align="left" alt="Hyperledger Fabric" height ="42px" src="https://www.hyperledger.org/wp-content/uploads/2018/03/Hyperledger_Fabric_Logo_White.png"></a>
+    <a href="https://es.vuejs.org" target="_blank"><img align="left" alt="VueJS" height="42px" src="https://es.vuejs.org/images/logo.png"></a>
+    <a href="https://nuxtjs.org" target="_blank"><img align="left" alt="NuxtJS" height="42px" src="https://nuxtjs.org/design-kit/white-text.svg"></a>
+</div>
 <br>
 <br>
 <br>
