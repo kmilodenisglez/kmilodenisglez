@@ -32,3 +32,8 @@ Specialist in solutions based on blockchain and applied cryptography, with a wid
 ![Kmilo GitHub stats](https://github-readme-stats.vercel.app/api?username=kmilodenisglez&count_private=true&show_icons=true&theme=dark&title_color=00BB2D&hide=stars,prs,issues,contribs)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmilodenisglez&layout=compact&langs_count=5&hide=html,css,makefile&count_private=true&show_icons=true&theme=dark&title_color=00BB2D)](https://github.com/anuraghazra/github-readme-stats)
+
+# 🔭Actions
+<div align="center">
+	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
+</div>
