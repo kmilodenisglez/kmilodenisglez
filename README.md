@@ -1,4 +1,4 @@
-## Hey 👋, I'm @kmilodenisglez
+## Hey 👋, I'm kmilo denis glez
 <a href='https://www.linkedin.com/in/kmilodenisglez/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <br/>
 Specialist in solutions based on blockchain and applied cryptography, with a wide variety of professional experiences. Adept at motivating self and others. Passionate about performance and data security.
