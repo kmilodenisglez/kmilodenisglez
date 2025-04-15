@@ -1,4 +1,4 @@
-### 🔍 **Servicios Profesionales Basados en el CV de Camilo Denis González**
+### 🔍 **Servicios Profesionales de Camilo Denis González**
 
 ---
 
