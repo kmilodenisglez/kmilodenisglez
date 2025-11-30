@@ -1,5 +1,5 @@
 <div align="center">
-  ## 👋 Hey, I'm Kmilo Denis Glez 🧑‍💻
+  👋 Hey, I'm Kmilo Denis Glez 🧑‍💻
   
   <p>
     <a href='https://www.linkedin.com/in/kmilodenisglez/' target="_blank">
@@ -16,8 +16,8 @@ I architect **secure, high-performance distributed systems** and currently serve
 
 ### 🧠 More About Me
 
-* **🏢 Work:** Researcher and Architect at the Institute of Cryptography, Faculty of Mathematics and Computer Science at University of Havana, Cuba.
-* **📚 Interests:** Decentralized Ledger Technologies (DLT/Blockchain), Applied Cryptography, and building high-performance solutions with Python and Golang.
+* **🏢 Work:** Researcher and Architect at the Institute of Cryptography, Faculty of Mathematics and Computer Science at University of Havana, Cuba. Specialized in the design and construction of high-performance services and APIs.
+* **📚 Interests:** Decentralized Ledger Technologies (DLT/Blockchain), Applied Cryptography, and building robust solutions using key frameworks like **Django, FastAPI, Laravel, Express.js**, and **Iris (Go)**.
 * **🤝 Collaboration:** Looking to contribute to **Hyperledger FireFly** and the **firefly-fabconnect** component.
 * **🌱 Learning:** Deep diving into the wonderful world of **Fintech** (Financial Technology).
 
