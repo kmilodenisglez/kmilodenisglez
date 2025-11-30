@@ -25,7 +25,6 @@ I architect **secure, high-performance distributed systems** and currently serve
 
 ### 🔨 Languages and Tools
 
-*Ensure you use full, accessible URLs for all images below!*
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Golang" width="40" height="40"/>
