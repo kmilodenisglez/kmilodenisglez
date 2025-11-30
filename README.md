@@ -1,32 +1,67 @@
-## Hey 👋, I'm kmilo denis glez
-<a href='https://www.linkedin.com/in/kmilodenisglez/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<br/>
-Specialist in solutions based on blockchain and applied cryptography, with a wide variety of professional experiences. Adept at motivating self and others. Passionate about performance and data security.
-<br/>
-<br/>
+<div align="center">
+  ## 👋 Hey, I'm Kmilo Denis Glez 🧑‍💻
+  
+  <p>
+    <a href='https://www.linkedin.com/in/kmilodenisglez/' target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+    </a>
+  </p>
+</div>
 
-🧐 More About Me:
-- 💻 &nbsp; Researcher and Architect of the Institute of Cryptography of the Faculty of Mathematics and Computer Science at University of Havana, Cuba.
-- 📚 &nbsp; I’m interested in blockchain technologies, applied cryptography solutions and python and golang programming languages.
-- 🤝 &nbsp; I’m looking to collaborate on hyperledger-firefly and the firefly-fabconnect component.
-- 🌱 &nbsp; I’m currently learning about the wonderful world of fintech.
+---
+
+### 🛡️ Blockchain & Applied Cryptography Specialist
+
+I architect **secure, high-performance distributed systems** and currently serve as a Researcher at the Institute of Cryptography at the University of Havana. Passionate about data security, system performance, and leading teams to successful solutions.
+
+### 🧠 More About Me
+
+* **🏢 Work:** Researcher and Architect at the Institute of Cryptography, Faculty of Mathematics and Computer Science at University of Havana, Cuba.
+* **📚 Interests:** Decentralized Ledger Technologies (DLT/Blockchain), Applied Cryptography, and building high-performance solutions with Python and Golang.
+* **🤝 Collaboration:** Looking to contribute to **Hyperledger FireFly** and the **firefly-fabconnect** component.
+* **🌱 Learning:** Deep diving into the wonderful world of **Fintech** (Financial Technology).
+
+---
+
+### 🔨 Languages and Tools
+
+*Ensure you use full, accessible URLs for all images below!*
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Golang" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="/static/fabric_icon.png" alt="Hyperledger Fabric" height ="42px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="VueJS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxt/nuxt-original.svg" alt="NuxtJS" width="40" height="40"/>
+</p>
+
+---
+
+### 📈 My GitHub Activity
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=kmilodenisglez&theme=whatsapp-dark2)](https://git.io/streak-stats)
+
+<br>
+<!--
+
+### 💻 Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmilodenisglez&layout=compact&langs_count=5&hide=html,css,makefile&count_private=true&show_icons=true&theme=dark&title_color=00BB2D)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
-### 🔨 Languages and Tools:
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height="42px" src="https://www.python.org/static/img/python-logo-large.c36dccadd999.png?1576869008"></a>
-<a href="https://gomirrors.org" target="_blank"><img align="left" alt="Golang" height="42px" src="/static/golang_icon.svg"></a>
-<a href="https://www.javascript.com/" target="_blank"> <img align="left" alt="JavaScript" height ="42px" src="/static/js_icon.svg"> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescript" height="42px" src="/static/ts2_icon.svg"></a>
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height="42px" src="/static/nodejs_icon.svg"></a>
-<a href="https://www.docker.com" target="_blank"><img align="left" alt="Docker" height="42px" src="https://www.docker.com/wp-content/uploads/2022/01/docker-logo-green_0.png"></a>
-<a href="https://www.hyperledger.org/use/fabric" target="_blank"><img align="left" alt="Hyperledger Fabric" height ="42px" src="/static/fabric_icon.png"></a>
-<a href="https://es.vuejs.org" target="_blank"><img align="left" alt="VueJS" height="42px" src="https://es.vuejs.org/images/logo.png"></a>
-<a href="https://nuxtjs.org" target="_blank"><img align="left" alt="NuxtJS" height="42px" src="https://nuxtjs.org/design-kit/white-text.svg"></a>
-<br>
-<br>
-<br>
+### 🐍 My Contributions in Motion
+<div align="center">
+	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+</div>
 
+-->
+
+
+<!--
 ### 📊 Github Stats
 
 ![Kmilo GitHub stats](https://github-readme-stats.vercel.app/api?username=kmilodenisglez&count_private=true&show_icons=true&theme=dark&title_color=00BB2D&hide=stars,prs,issues,contribs)
@@ -37,3 +72,4 @@ Specialist in solutions based on blockchain and applied cryptography, with a wid
 <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
 </div>
+-->
