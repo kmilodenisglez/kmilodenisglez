@@ -12,7 +12,7 @@
 
 ### 🛡️ Blockchain & Applied Cryptography Specialist
 
-I architect **secure, high-performance distributed systems** and currently serve as a Researcher at the Institute of Cryptography at the University of Havana. Passionate about data security, system performance, and leading teams to successful solutions.
+Blockchain & Applied Cryptography Specialist passionate about designing **secure, high-performance distributed systems**. Currently a Researcher at the Institute of Cryptography, University of Havana, I specialize in building robust APIs and services while exploring Decentralized Ledger Technologies and applied cryptography. Experienced with frameworks such as Django, FastAPI, Laravel, Express.js, and Iris (Go), as well as blockchain technologies including Hyperledger (Fabric, FireFly) and Ethereum Virtual Machine-based platforms (Ethereum, Polygon, etc.).
 
 ### 🧠 More About Me
 
