@@ -1,5 +1,5 @@
 <div align="center">
-  👋 Hey, I'm Kmilo Denis Glez 🧑‍💻
+  👋 Hey, I'm Camilo (Kmilo) Denis Glez 🧑‍💻
   
   <p>
     <a href='https://www.linkedin.com/in/kmilodenisglez/' target="_blank">
