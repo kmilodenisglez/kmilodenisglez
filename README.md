@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00BB2D,100:0B3D0B&section=header&text=Hey%2C%20I'm%20Kmilo%20Denis%20Glez&fontSize=30&fontColor=ffffff&desc=Blockchain%20%26%20Applied%20Cryptography%20Researcher&descSize=16&descAlignY=72" alt="Header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=140&amp;color=0:00BB2D,100:0B3D0B&amp;section=header&amp;text=Hey%2C%20I'm%20Kmilo%20Denis%20Glez&amp;fontSize=30&amp;fontColor=ffffff&amp;desc=Blockchain%20%26%20Applied%20Cryptography%20Researcher&amp;descSize=16&amp;descAlignY=72" alt="Header banner"/>
 
 <div align="center">
 
@@ -76,7 +76,7 @@ Researcher at the **Institute of Cryptography, University of Havana**, specializ
 ---
 
 <div align="center">
-	<img src="https://raw.githubusercontent.com/kmilodenisglez/kmilodenisglez/output/snake.svg" alt="GitHub contributions snake animation"/>
+  <img src="https://raw.githubusercontent.com/kmilodenisglez/kmilodenisglez/output/snake.svg" alt="GitHub contributions snake animation"/>
 </div>
 
 ---
