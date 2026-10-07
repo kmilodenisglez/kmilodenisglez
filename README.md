@@ -16,7 +16,7 @@
 Researcher at the **Institute of Cryptography, University of Havana**, specializing in the design of **secure, high-performance distributed systems**: robust APIs and services built on **Decentralized Ledger Technologies (DLT)** and **applied cryptography**.
 
 - 🔭 **Current work** — Researcher & Architect at the Institute of Cryptography, Faculty of Mathematics and Computer Science (University of Havana).
-- 🤝 **Open source** — Contributor to [fabric-chaincode-python](https://github.com/kmilodenisglez/fabric-chaincode-python). Looking to collaborate on [Hyperledger FireFly](https://github.com/hyperledger/firefly) and its [firefly-fabconnect](https://github.com/hyperledger/firefly-fabconnect) component.
+- 🤝 **Open source** — Contributor to [fabric-chaincode-python](https://github.com/hyperledger/fabric-chaincode-python), [fabric-proto](https://github.com/hyperledger/fabric-proto). Looking to collaborate on [Hyperledger FireFly](https://github.com/hyperledger/firefly) and its [firefly-fabconnect](https://github.com/hyperledger/firefly-fabconnect) component.
 - 🧰 **Daily stack** — Django, FastAPI, Laravel, Express.js, Iris (Go) · Hyperledger Fabric & FireFly · EVM chains (Ethereum, Polygon…).
 - 🌱 **Learning** — FinTech, where cryptography meets the real financial world.
 
